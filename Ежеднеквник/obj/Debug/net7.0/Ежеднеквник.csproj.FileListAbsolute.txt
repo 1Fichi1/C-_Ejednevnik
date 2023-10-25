@@ -1,0 +1,14 @@
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.AssemblyInfoInputs.cache
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.AssemblyInfo.cs
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.csproj.CoreCompileInputs.cache
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\bin\Debug\net7.0\Ежеднеквник.exe
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\bin\Debug\net7.0\Ежеднеквник.deps.json
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\bin\Debug\net7.0\Ежеднеквник.runtimeconfig.json
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\bin\Debug\net7.0\Ежеднеквник.dll
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\bin\Debug\net7.0\Ежеднеквник.pdb
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.dll
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\refint\Ежеднеквник.dll
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.pdb
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\Ежеднеквник.genruntimeconfig.cache
+C:\Users\batyr\source\repos\Ежеднеквник\Ежеднеквник\obj\Debug\net7.0\ref\Ежеднеквник.dll
